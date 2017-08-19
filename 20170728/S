@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-ie">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="/www/hcslive/css/courts.css" />
+    <title>Search Results</title>
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36325825-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="site_section">
+      <div id="header_section">
+        <div id="logo_section">
+          <div id="logo">
+            <a href="http://www.courts.ie" title="Courts Service logo"><img alt="Courts Service logo" src="/www/hcslive/images/logo.gif" /></a>
+          </div>
+        </div>  <!-- logo-section -->
+        <div id="title_section">
+          <div id="site_title">
+            <img alt="Central Office Online Search" src="/www/hcslive/images/onlinetitle.gif" />
+          </div>
+          <div id="site_links">
+            <ul>
+              <li id="help"><a href="/www/hcslive/html/Help.html" target="_new">Help</a></li>
+              <li id="common_questions"><a href="/www/hcslive/html/CommonQuestions.html" target="_new">Common Questions</a></li>
+              <li id="privacy_security"><a href="/www/hcslive/html/PrivacyStatement.html" target="_new">Privacy and Security Statement</a></li>
+            </ul>
+          </div>  <!-- site-links -->
+          <div id="site_note">
+            Note: Details last updated at close of business on 08/08/2017
+          </div>
+        </div>  <!-- title_section -->
+      </div>  <!-- header_section -->
+      <div id="main_section">
+        <div id="menu_section">
+          <ul>
+            <li><a href="case_search.show?sessionID=1693490764">Search</a></li>
+            <li class="selected">Case Details</li>
+            <li class="selected">Filings</li>
+            <li class="selected">Order</li>
+            <li class="selected">Listing</li>
+            <li class="selected">Plaintiff Details</li>
+            <li class="selected">Defendant Details</li>
+            <li class="selected">Judgment</li>
+          </ul>
+        </div>  <!-- menu-section -->
+        <div id="content_section">
+<div id="table_section">
+<div id="title_text">
+<h1>Search Results</h1>
+</div>
+<div class="search_help_info">Click on the "view" link to the right of the case you would like to view</div>
+  <div class="case_summary">Cases By Plaintiff</div>
+<table class="list_table" summary="List of case details that match the search criteria">
+<tr>
+<th id="name_column" class="name_column"><a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=1&amp;sortDirection=D" title="Click to sort list by plaintiff descending">Plaintiff</a>
+<img alt="Arrow pointing upwards" src="/www/hcslive/images/sortarrowasc.gif" />
+</th>
+<th id="record_no_column" class="record_no_column">
+<a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=2&amp;sortDirection=A" title="Click to sort list by record number ascending">Record Number</a>
+</th>
+<th id="title_column" class="title_column">
+<a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=3&amp;sortDirection=A" title="Click to sort list by title ascending">Title</a>
+</th>
+<th id="view_column" class="view_column">View Details</th>
+        </tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">AIB MORTGAGE BANK</td>
+<td headers="record_no_column" class="record_no_column">2016 1376 S</td>
+<td headers="title_column" class="title_column">AIB MORTGAGE BANK -V- O REILLY</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1376&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">AIB MORTGAGE BANK</td>
+<td headers="record_no_column" class="record_no_column">2016 239 S</td>
+<td headers="title_column" class="title_column">AIB MORTGAGE BANK -V- FITZPATRICK &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=239&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">AIB MORTGAGE BANK</td>
+<td headers="record_no_column" class="record_no_column">2016 243 S</td>
+<td headers="title_column" class="title_column">AIB MORTGAGE BANK -V- FITZPATRICK &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=243&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2014 2186 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- BRISCOE &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2186&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2016 923 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- O SULLIVAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=923&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2016 1592 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- O DRISCOLL SENIOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1592&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2014 2492 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- MACKAY &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2492&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2016 747 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- FLOOD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=747&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2016 237 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- FITZPATRICK</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=237&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2014 2186 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- BRISCOE &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2186&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">AIB PLC</td>
+<td headers="record_no_column" class="record_no_column">2014 2186 S</td>
+<td headers="title_column" class="title_column">AIB PLC -V- BRISCOE &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2186&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ALLIED IRISH BANKS PLC</td>
+<td headers="record_no_column" class="record_no_column">2017 42 S</td>
+<td headers="title_column" class="title_column">ALLIED IRISH BANKS PLC -V- MCKEOWN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=42&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ALLIED IRISH BANKS PLC</td>
+<td headers="record_no_column" class="record_no_column">2016 1034 S</td>
+<td headers="title_column" class="title_column">ALLIED IRISH BANKS PLC -V- KELLY</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1034&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ALLIED IRISH BANKS PLC</td>
+<td headers="record_no_column" class="record_no_column">2016 2204 S</td>
+<td headers="title_column" class="title_column">ALLIED IRISH BANKS PLC -V- BARRY</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2204&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BANK OF IRELAND</td>
+<td headers="record_no_column" class="record_no_column">2014 1026 S</td>
+<td headers="title_column" class="title_column">BANK OF IRELAND -V- MELLON &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=1026&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BANK OF IRELAND</td>
+<td headers="record_no_column" class="record_no_column">2014 1026 S</td>
+<td headers="title_column" class="title_column">BANK OF IRELAND -V- MELLON &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=1026&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BANK OF IRELAND</td>
+<td headers="record_no_column" class="record_no_column">2014 1026 S</td>
+<td headers="title_column" class="title_column">BANK OF IRELAND -V- MELLON &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=1026&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BANK OF IRELAND</td>
+<td headers="record_no_column" class="record_no_column">2014 1026 S</td>
+<td headers="title_column" class="title_column">BANK OF IRELAND -V- MELLON &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=1026&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BANK OF IRELAND</td>
+<td headers="record_no_column" class="record_no_column">2017 599 S</td>
+<td headers="title_column" class="title_column">BANK OF IRELAND -V- KENNY &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=599&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BRYANT PARK QIAIF ICAV</td>
+<td headers="record_no_column" class="record_no_column">2016 1664 S</td>
+<td headers="title_column" class="title_column">BRYANT PARK QIAIF ICAV &amp; ANOR -V- DUNNES STORES MUNSTER COMPANY</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1664&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CABOT ASSET PURCHASES [IRELAND] LTD</td>
+<td headers="record_no_column" class="record_no_column">2016 1285 S</td>
+<td headers="title_column" class="title_column">CABOT ASSET PURCHASES [IRELAND] LTD -V- LYNE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1285&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CABOT ASSET PURCHASES [IRELAND] LTD</td>
+<td headers="record_no_column" class="record_no_column">2016 2233 S</td>
+<td headers="title_column" class="title_column">CABOT ASSET PURCHASES [IRELAND] LTD -V- FOLAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2233&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CARTY S/T KENT CARTY SOLICITORS, H GAVAN</td>
+<td headers="record_no_column" class="record_no_column">2010 5214 S</td>
+<td headers="title_column" class="title_column">CARTY S/T KENT CARTY SOLICITORS &amp; ORS -V- HARTE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=5214&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CARTY S/T KENT CARTY SOLICITORS, HUGH A</td>
+<td headers="record_no_column" class="record_no_column">2010 5214 S</td>
+<td headers="title_column" class="title_column">CARTY S/T KENT CARTY SOLICITORS &amp; ORS -V- HARTE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=5214&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CARTY S/T KENT CARTY SOLICITORS, JOHN P</td>
+<td headers="record_no_column" class="record_no_column">2010 5214 S</td>
+<td headers="title_column" class="title_column">CARTY S/T KENT CARTY SOLICITORS &amp; ORS -V- HARTE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=5214&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CARTY S/T KENT CARTY SOLICITORS, SHANE</td>
+<td headers="record_no_column" class="record_no_column">2010 5214 S</td>
+<td headers="title_column" class="title_column">CARTY S/T KENT CARTY SOLICITORS &amp; ORS -V- HARTE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=5214&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ENNIS PROPERTY FINANCE DAC</td>
+<td headers="record_no_column" class="record_no_column">2017 1011 S</td>
+<td headers="title_column" class="title_column">PEPPER FINANCE CORPORATION [IRELAND] DAC T/A &amp; ANOR -V- DONOVAN [O/W JOE O</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=1011&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">HALLSCOTCH VENTURE LTD</td>
+<td headers="record_no_column" class="record_no_column">2017 273 S</td>
+<td headers="title_column" class="title_column">HALLSCOTCH VENTURE LTD -V- DUNNES STORES</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=273&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">HAVBELL DAC</td>
+<td headers="record_no_column" class="record_no_column">2016 1464 S</td>
+<td headers="title_column" class="title_column">HAVBELL DAC -V- O SHEA &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1464&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KENMARE PROPERTY FINANCE DESIGNATED ACTIVITY, COMPANY</td>
+<td headers="record_no_column" class="record_no_column">2017 708 S</td>
+<td headers="title_column" class="title_column">KENMARE PROPERTY FINANCE DESIGNATED ACTIVITY -V- CODY &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=708&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">LAUNCESTON PROPERTY FINANCE DAC</td>
+<td headers="record_no_column" class="record_no_column">2017 416 S</td>
+<td headers="title_column" class="title_column">LAUNCESTON PROPERTY FINANCE DAC -V- WALLS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=416&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">LAUNCESTON PROPERTY FINANCE DAC</td>
+<td headers="record_no_column" class="record_no_column">2016 2192 S</td>
+<td headers="title_column" class="title_column">LAUNCESTON PROPERTY FINANCE DAC -V- KEEGAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2192&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MYRMIDON CMBS [PROPCO] LTD</td>
+<td headers="record_no_column" class="record_no_column">2008 833 S</td>
+<td headers="title_column" class="title_column">MYRMIDON CMBS [PROPCO] LTD -V- VIVIENNES JEWELLERS LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2008&amp;recordNo=833&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">PENTIRE PROPERTY FINANCE DESIGNATED, ACTIVITY COMPANY</td>
+<td headers="record_no_column" class="record_no_column">2012 2801 S</td>
+<td headers="title_column" class="title_column">PENTIRE PROPERTY FINANCE DESIGNATED -V- DOWLING &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=2801&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">PEPPER FINANCE CORPORATION [IRELAND] DAC T/A, PEPPER ASSET SERVICING</td>
+<td headers="record_no_column" class="record_no_column">2017 1011 S</td>
+<td headers="title_column" class="title_column">PEPPER FINANCE CORPORATION [IRELAND] DAC T/A &amp; ANOR -V- DONOVAN [O/W JOE O</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=1011&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">RYAN P/A GREG RYAN SOLICITORS, GREGORY</td>
+<td headers="record_no_column" class="record_no_column">2015 606 S</td>
+<td headers="title_column" class="title_column">RYAN P/A GREG RYAN SOLICITORS -V- WOOD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=606&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">WATERFORD SHOPPING CENTRE MANAGEMENT LTD</td>
+<td headers="record_no_column" class="record_no_column">2016 1664 S</td>
+<td headers="title_column" class="title_column">BRYANT PARK QIAIF ICAV &amp; ANOR -V- DUNNES STORES MUNSTER COMPANY</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1664&amp;processType=S" title="Click on this link to view court case">View</a></td>
+</tr>
+</table>
+</div>
+<div id="terms_conditions_note">Use of this site is subject to acceptance of our <a href="terms_conditions.show">terms and conditions</a>.
+             </div>
+        </div>  <!-- content_section -->
+      </div>  <!-- main_section -->
+    </div>  <!-- site_section -->
+  </body>
+</html>
+

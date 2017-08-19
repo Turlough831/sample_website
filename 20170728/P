@@ -1,0 +1,1551 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-ie">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="/www/hcslive/css/courts.css" />
+    <title>Search Results</title>
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36325825-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="site_section">
+      <div id="header_section">
+        <div id="logo_section">
+          <div id="logo">
+            <a href="http://www.courts.ie" title="Courts Service logo"><img alt="Courts Service logo" src="/www/hcslive/images/logo.gif" /></a>
+          </div>
+        </div>  <!-- logo-section -->
+        <div id="title_section">
+          <div id="site_title">
+            <img alt="Central Office Online Search" src="/www/hcslive/images/onlinetitle.gif" />
+          </div>
+          <div id="site_links">
+            <ul>
+              <li id="help"><a href="/www/hcslive/html/Help.html" target="_new">Help</a></li>
+              <li id="common_questions"><a href="/www/hcslive/html/CommonQuestions.html" target="_new">Common Questions</a></li>
+              <li id="privacy_security"><a href="/www/hcslive/html/PrivacyStatement.html" target="_new">Privacy and Security Statement</a></li>
+            </ul>
+          </div>  <!-- site-links -->
+          <div id="site_note">
+            Note: Details last updated at close of business on 08/08/2017
+          </div>
+        </div>  <!-- title_section -->
+      </div>  <!-- header_section -->
+      <div id="main_section">
+        <div id="menu_section">
+          <ul>
+            <li><a href="case_search.show?sessionID=1693490764">Search</a></li>
+            <li class="selected">Case Details</li>
+            <li class="selected">Filings</li>
+            <li class="selected">Order</li>
+            <li class="selected">Listing</li>
+            <li class="selected">Plaintiff Details</li>
+            <li class="selected">Defendant Details</li>
+            <li class="selected">Judgment</li>
+          </ul>
+        </div>  <!-- menu-section -->
+        <div id="content_section">
+<div id="table_section">
+<div id="title_text">
+<h1>Search Results</h1>
+</div>
+<div class="search_help_info">Click on the "view" link to the right of the case you would like to view</div>
+  <div class="case_summary">Cases By Plaintiff</div>
+<table class="list_table" summary="List of case details that match the search criteria">
+<tr>
+<th id="name_column" class="name_column"><a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=1&amp;sortDirection=D" title="Click to sort list by plaintiff descending">Plaintiff</a>
+<img alt="Arrow pointing upwards" src="/www/hcslive/images/sortarrowasc.gif" />
+</th>
+<th id="record_no_column" class="record_no_column">
+<a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=2&amp;sortDirection=A" title="Click to sort list by record number ascending">Record Number</a>
+</th>
+<th id="title_column" class="title_column">
+<a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=3&amp;sortDirection=A" title="Click to sort list by title ascending">Title</a>
+</th>
+<th id="view_column" class="view_column">View Details</th>
+        </tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ABRANTES DO CARMO, RAMIRO</td>
+<td headers="record_no_column" class="record_no_column">2014 3319 P</td>
+<td headers="title_column" class="title_column">ABRANTES DO CARMO &amp; ORS -V- ROSAS CONSTRUCTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=3319&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ABRANTES DO CARMO, RAMIRO</td>
+<td headers="record_no_column" class="record_no_column">2014 3319 P</td>
+<td headers="title_column" class="title_column">ABRANTES DO CARMO &amp; ORS -V- ROSAS CONSTRUCTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=3319&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">AIB PLC T/A AIB FINANCE & LEASING</td>
+<td headers="record_no_column" class="record_no_column">2015 3171 P</td>
+<td headers="title_column" class="title_column">AIB PLC T/A AIB FINANCE &amp; LEASING -V- MC ELWAINE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=3171&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ALLIED IRISH BANKS PLC</td>
+<td headers="record_no_column" class="record_no_column">2016 10266 P</td>
+<td headers="title_column" class="title_column">ALLIED IRISH BANKS PLC &amp; ANOR -V- MCGAVIGAN &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=10266&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ANTECKI, KACPER</td>
+<td headers="record_no_column" class="record_no_column">2010 11215 P</td>
+<td headers="title_column" class="title_column">ANTECKI -V- MIBI &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=11215&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ARDEN FORESTRY MANAGEMENT LTD [IN PROVISIONAL, LIQUIDATION]</td>
+<td headers="record_no_column" class="record_no_column">2016 9869 P</td>
+<td headers="title_column" class="title_column">ARDEN FORESTRY MANAGEMENT LTD [IN PROVISIONAL -V- GTD INTERNATIONAL LIMITED</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=9869&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ARDEN FORESTRY MANAGEMENT LTD [IN PROVISIONAL, LIQUIDATION]</td>
+<td headers="record_no_column" class="record_no_column">2016 9869 P</td>
+<td headers="title_column" class="title_column">ARDEN FORESTRY MANAGEMENT LTD [IN PROVISIONAL -V- GTD INTERNATIONAL LIMITED</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=9869&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ARTHUR, DEIRDRE</td>
+<td headers="record_no_column" class="record_no_column">2012 430 P</td>
+<td headers="title_column" class="title_column">ARTHUR &amp; ANOR -V- GORMAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=430&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ARTHUR, DEIRDRE</td>
+<td headers="record_no_column" class="record_no_column">2012 430 P</td>
+<td headers="title_column" class="title_column">ARTHUR &amp; ANOR -V- GORMAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=430&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ARTHUR, DEIRDRE</td>
+<td headers="record_no_column" class="record_no_column">2012 430 P</td>
+<td headers="title_column" class="title_column">ARTHUR &amp; ANOR -V- GORMAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=430&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ARTHUR, JOSEPH</td>
+<td headers="record_no_column" class="record_no_column">2012 430 P</td>
+<td headers="title_column" class="title_column">ARTHUR &amp; ANOR -V- GORMAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=430&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ARTHUR, JOSEPH</td>
+<td headers="record_no_column" class="record_no_column">2012 430 P</td>
+<td headers="title_column" class="title_column">ARTHUR &amp; ANOR -V- GORMAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=430&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ARTHUR, JOSEPH</td>
+<td headers="record_no_column" class="record_no_column">2012 430 P</td>
+<td headers="title_column" class="title_column">ARTHUR &amp; ANOR -V- GORMAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=430&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BALLYMORE CONTRACTING LTD</td>
+<td headers="record_no_column" class="record_no_column">2015 10100 P</td>
+<td headers="title_column" class="title_column">BALLYMORE CONTRACTING LTD &amp; ORS -V- ROADSTONE DUBLIN LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=10100&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BALLYMORE CONTRACTING LTD</td>
+<td headers="record_no_column" class="record_no_column">2015 10100 P</td>
+<td headers="title_column" class="title_column">BALLYMORE CONTRACTING LTD &amp; ORS -V- ROADSTONE DUBLIN LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=10100&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BALLYMORE RESIDENTIAL LTD</td>
+<td headers="record_no_column" class="record_no_column">2015 10100 P</td>
+<td headers="title_column" class="title_column">BALLYMORE CONTRACTING LTD &amp; ORS -V- ROADSTONE DUBLIN LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=10100&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BALLYMORE RESIDENTIAL LTD</td>
+<td headers="record_no_column" class="record_no_column">2015 10100 P</td>
+<td headers="title_column" class="title_column">BALLYMORE CONTRACTING LTD &amp; ORS -V- ROADSTONE DUBLIN LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=10100&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BANNON, LAURA</td>
+<td headers="record_no_column" class="record_no_column">2006 1896 P</td>
+<td headers="title_column" class="title_column">BANNON -V- RAYFUS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2006&amp;recordNo=1896&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BARBOSA GONCALVES, HELDER FILIPE</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BARBOSA GONCALVES, HELDER FILIPE</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BARNES, DECLAN</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BARRY, JOSEPHINE</td>
+<td headers="record_no_column" class="record_no_column">2012 8577 P</td>
+<td headers="title_column" class="title_column">BARRY -V- DEPUY INTERNATIONAL LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=8577&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BDBC [IRELAND ] LIMITED</td>
+<td headers="record_no_column" class="record_no_column">2013 14236 P</td>
+<td headers="title_column" class="title_column">BDBC [IRELAND ] LIMITED -V- BALLYGALLON STUD LIMITED</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=14236&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BENTHAM, TIMOTHY</td>
+<td headers="record_no_column" class="record_no_column">2014 113 P</td>
+<td headers="title_column" class="title_column">BENTHAM -V- SAMSKIP MULTIMODAL LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=113&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BERRENDO, VINCENT</td>
+<td headers="record_no_column" class="record_no_column">2016 37 P</td>
+<td headers="title_column" class="title_column">BERRENDO -V- OLAAFOLABI</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=37&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BERRILL, JOHN</td>
+<td headers="record_no_column" class="record_no_column">2017 6839 P</td>
+<td headers="title_column" class="title_column">BERRILL &amp; ANOR -V- KENMARE PROPERTY FINANCE DAC &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6839&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BLOUNT, ROBERT</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BLOUNT, ROBERT</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BRADY, LIZ</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BRANIGAN, THOMAS</td>
+<td headers="record_no_column" class="record_no_column">2016 2265 P</td>
+<td headers="title_column" class="title_column">BRANIGAN -V- DANAHER</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2265&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BRENNAN, MICHAEL</td>
+<td headers="record_no_column" class="record_no_column">2012 13143 P</td>
+<td headers="title_column" class="title_column">BRENNAN -V- DE PUY INTERNATIONAL LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=13143&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BRUNKER T/A THE FIRSTWOOD PARTNERSHIP, ERIC</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BRUNKER T/A THE FIRSTWOOD PARTNERSHIP, ERIC</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BUSHE, JASON</td>
+<td headers="record_no_column" class="record_no_column">2017 6989 P</td>
+<td headers="title_column" class="title_column">BUSHE -V- TPEM LTD T/A PULSE LOGISTICS &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6989&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BYRNE, FIDELMA</td>
+<td headers="record_no_column" class="record_no_column">2016 7282 P</td>
+<td headers="title_column" class="title_column">BYRNE -V- HSE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7282&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">BYRNE T/A THE FIRSTWOOD PARTNERSHIP, GABRIEL</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">BYRNE T/A THE FIRSTWOOD PARTNERSHIP, GABRIEL</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">C M, E</td>
+<td headers="record_no_column" class="record_no_column">2016 6956 P</td>
+<td headers="title_column" class="title_column">KELLY &amp; ANOR -V- INDEPENTDANT NEWS AND MEDIAL PLC &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=6956&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">C&K ENERGY SERVICES LIMITED</td>
+<td headers="record_no_column" class="record_no_column">2017 2415 P</td>
+<td headers="title_column" class="title_column">C&amp;K ENERGY SERVICES LIMITED -V- CAREY &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=2415&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CALLANAN, KEVIN</td>
+<td headers="record_no_column" class="record_no_column">2013 58 P</td>
+<td headers="title_column" class="title_column">CALLANAN -V- HONEYWELL INTERNATIONAL TECHNOLOGIES LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=58&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CARDOSA ALMEIDA, VICTOR MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CARDOSA ALMEIDA, VICTOR MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CAREY, MICHAEL</td>
+<td headers="record_no_column" class="record_no_column">2015 10318 P</td>
+<td headers="title_column" class="title_column">CAREY -V- DEPUY INTERNATIONAL LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=10318&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CARROLL [MINOR], JANE PATRICK</td>
+<td headers="record_no_column" class="record_no_column">2010 3620 P</td>
+<td headers="title_column" class="title_column">CARROLL [MINOR] -V- HANLON</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=3620&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CARVALHO, SERGIO ANTONIO</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CARVALHO, SERGIO ANTONIO</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CHARLETON, LUKE</td>
+<td headers="record_no_column" class="record_no_column">2016 10266 P</td>
+<td headers="title_column" class="title_column">ALLIED IRISH BANKS PLC &amp; ANOR -V- MCGAVIGAN &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=10266&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CLEARY, MARIE</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CLEARY, MARIE</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CONCANNON, EMER</td>
+<td headers="record_no_column" class="record_no_column">2007 2340 P</td>
+<td headers="title_column" class="title_column">CONCANNON -V- HEALTH SERVICE EXECUTIVE - WESTERN REGION</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2007&amp;recordNo=2340&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CORT REAL, RUI MIGUEL DOS REIS SERPA</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CORT REAL, RUI MIGUEL DOS REIS SERPA</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CRAIG [A MINOR], LEE</td>
+<td headers="record_no_column" class="record_no_column">2013 9940 P</td>
+<td headers="title_column" class="title_column">CRAIG [A MINOR] -V- CENTRAL REMEDIAL CLINIC</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=9940&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CROSSWINDS COTTAGE LTD</td>
+<td headers="record_no_column" class="record_no_column">2015 10100 P</td>
+<td headers="title_column" class="title_column">BALLYMORE CONTRACTING LTD &amp; ORS -V- ROADSTONE DUBLIN LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=10100&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CROSSWINDS COTTAGE LTD</td>
+<td headers="record_no_column" class="record_no_column">2015 10100 P</td>
+<td headers="title_column" class="title_column">BALLYMORE CONTRACTING LTD &amp; ORS -V- ROADSTONE DUBLIN LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=10100&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">CUMMINS MOORE, JOAN</td>
+<td headers="record_no_column" class="record_no_column">2014 5559 P</td>
+<td headers="title_column" class="title_column">HUGHES &amp; ORS -V- COLLINS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=5559&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">CUSH P/A CONNOLLY SELLORS GERAGHTY SOLRS, EUGENE</td>
+<td headers="record_no_column" class="record_no_column">2009 7569 P</td>
+<td headers="title_column" class="title_column">SHEEHY P/A CONNOLLY SELLORS GERAGHTY SOLRS &amp; ORS -V- CARROLL &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2009&amp;recordNo=7569&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">DA CRUZ COELHO, CARLOS MANUEL MONTEIRO ALBERTO</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">DA CRUZ COELHO, CARLOS MANUEL MONTEIRO ALBERTO</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">DE SILVA SAMPAIO, AGOSTINHO</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">DE SILVA SAMPAIO, AGOSTINHO</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">DERMODY, PATRICK</td>
+<td headers="record_no_column" class="record_no_column">2017 5535 P</td>
+<td headers="title_column" class="title_column">DERMODY -V- DEPUY INTERNATIONAL LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=5535&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">DICK, JULIE</td>
+<td headers="record_no_column" class="record_no_column">2016 8880 P</td>
+<td headers="title_column" class="title_column">DICK -V- KESSIE T/A SOUTH DUBLIN MOTORS &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8880&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">DONOVAN, JOE</td>
+<td headers="record_no_column" class="record_no_column">2016 5845 P</td>
+<td headers="title_column" class="title_column">DONOVAN -V- PEPPER FINANCE CORPORATION IRELAND DAC T/A PEPPER &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=5845&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">DOWNES, MARY</td>
+<td headers="record_no_column" class="record_no_column">2012 3850 P</td>
+<td headers="title_column" class="title_column">DOWNES -V- DEPUY INTERNATIONAL LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=3850&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">DUARTE, MANUEL ALBERTO PEREIRA</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">DUARTE, MANUEL ALBERTO PEREIRA</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">DUFFY, FIONA</td>
+<td headers="record_no_column" class="record_no_column">2017 1268 P</td>
+<td headers="title_column" class="title_column">DUFFY -V- LIFFEY MEATS [CAVAN]</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=1268&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">DUFFY, THOMAS GERARD</td>
+<td headers="record_no_column" class="record_no_column">2013 4006 P</td>
+<td headers="title_column" class="title_column">DUFFY -V- HANNON</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=4006&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">EGAN, PATRICK</td>
+<td headers="record_no_column" class="record_no_column">2014 10256 P</td>
+<td headers="title_column" class="title_column">EGAN -V- TIP LEISURE LIMITED &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=10256&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">EUROTREK RALEIGH IRELAND LTD</td>
+<td headers="record_no_column" class="record_no_column">2017 4269 P</td>
+<td headers="title_column" class="title_column">EUROTREK RALEIGH IRELAND LTD -V- FRIENDS FIRST MANAGED PENSION FUNDS DAC &amp;</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=4269&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">EUROTREK RALEIGH IRELAND LTD</td>
+<td headers="record_no_column" class="record_no_column">2017 4269 P</td>
+<td headers="title_column" class="title_column">EUROTREK RALEIGH IRELAND LTD -V- FRIENDS FIRST MANAGED PENSION FUNDS DAC &amp;</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=4269&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">EVANS, EILEEN</td>
+<td headers="record_no_column" class="record_no_column">2016 10895 P</td>
+<td headers="title_column" class="title_column">EVANS -V- EVELYN SUPERMARKETS LTD T/A EUROSPAR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=10895&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">EVERS, JUSTIN</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">EVERS, JUSTIN</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FARRELL, HUGH</td>
+<td headers="record_no_column" class="record_no_column">2016 6931 P</td>
+<td headers="title_column" class="title_column">FARRELL -V- HSE &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=6931&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">FASTWELL LTD</td>
+<td headers="record_no_column" class="record_no_column">2015 5676 P</td>
+<td headers="title_column" class="title_column">FASTWELL LTD -V- OCL CAPITAL PLC</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=5676&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FERNANDO MAGAHALES DA SILVA, JOSE</td>
+<td headers="record_no_column" class="record_no_column">2014 3319 P</td>
+<td headers="title_column" class="title_column">ABRANTES DO CARMO &amp; ORS -V- ROSAS CONSTRUCTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=3319&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">FERNANDO MAGAHALES DA SILVA, JOSE</td>
+<td headers="record_no_column" class="record_no_column">2014 3319 P</td>
+<td headers="title_column" class="title_column">ABRANTES DO CARMO &amp; ORS -V- ROSAS CONSTRUCTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=3319&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FINN, PAT</td>
+<td headers="record_no_column" class="record_no_column">2017 5182 P</td>
+<td headers="title_column" class="title_column">FINN -V- L'ESTRANGE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=5182&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">FINNIE, WILLIAM</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FINNIE, WILLIAM</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">FITZGERALD, CHRISTINE</td>
+<td headers="record_no_column" class="record_no_column">2015 1324 P</td>
+<td headers="title_column" class="title_column">FITZGERALD -V- BON SECOURS HEALTH SYSTEM LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=1324&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FITZGERALD, DENISE</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">FITZGERALD, DENISE</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FITZGERALD [APUM], ENDA</td>
+<td headers="record_no_column" class="record_no_column">2015 709 P</td>
+<td headers="title_column" class="title_column">FITZGERALD [APUM] -V- BUCKLEY</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=709&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">FORMOSO PEREIRA, VITOR MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FORMOSO PEREIRA, VITOR MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">FRIZELL, MICHAEL</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">FRIZELL, MICHAEL</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">GALVIN, NOELEEN</td>
+<td headers="record_no_column" class="record_no_column">2013 9266 P</td>
+<td headers="title_column" class="title_column">GALVIN -V- DEPUY INTERNATIONAL LIMITED</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=9266&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">GANNON, ANTHONY</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">GANNON, ANTHONY</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">GENOCKEY, GLENDA</td>
+<td headers="record_no_column" class="record_no_column">2013 12987 P</td>
+<td headers="title_column" class="title_column">GENOCKEY -V- BANK OF IRELAND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12987&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">GENOCKEY, GLENDA</td>
+<td headers="record_no_column" class="record_no_column">2013 12987 P</td>
+<td headers="title_column" class="title_column">GENOCKEY -V- BANK OF IRELAND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12987&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">GERAGHTY P/A CONNOLLY SELLORS GERAGHTY SOLRS, PATRICK J</td>
+<td headers="record_no_column" class="record_no_column">2009 7569 P</td>
+<td headers="title_column" class="title_column">SHEEHY P/A CONNOLLY SELLORS GERAGHTY SOLRS &amp; ORS -V- CARROLL &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2009&amp;recordNo=7569&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">GILCHRIST, PATRICK BENEDICT</td>
+<td headers="record_no_column" class="record_no_column">2013 11584 P</td>
+<td headers="title_column" class="title_column">GILCHRIST -V- SUNDAY NEWSPAPERS LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=11584&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">GILDEA, BRENDAN</td>
+<td headers="record_no_column" class="record_no_column">2017 2197 P</td>
+<td headers="title_column" class="title_column">GILDEA -V- DANSKE BANK A/S T/A DANSKE BANK &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=2197&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">GILROY P/A CONNOLLY SELLORS GERAGHTY SOLRS, MICHAEL</td>
+<td headers="record_no_column" class="record_no_column">2009 7569 P</td>
+<td headers="title_column" class="title_column">SHEEHY P/A CONNOLLY SELLORS GERAGHTY SOLRS &amp; ORS -V- CARROLL &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2009&amp;recordNo=7569&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">GRACE [MINOR], ANDREW</td>
+<td headers="record_no_column" class="record_no_column">2013 7757 P</td>
+<td headers="title_column" class="title_column">GRACE [MINOR] -V- GRACE &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=7757&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">GREACEN, JAMES</td>
+<td headers="record_no_column" class="record_no_column">2015 6154 P</td>
+<td headers="title_column" class="title_column">GREACEN -V- HSE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=6154&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">GRIFFIN, SAMANTHA</td>
+<td headers="record_no_column" class="record_no_column">2016 541 P</td>
+<td headers="title_column" class="title_column">GRIFFIN -V- BELLWAY LTD T/A THE LAURELS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=541&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">GUNN, DAVID</td>
+<td headers="record_no_column" class="record_no_column">2015 9803 P</td>
+<td headers="title_column" class="title_column">GUNN -V- BRAHM &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=9803&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">HAMILTON, BRENDAN</td>
+<td headers="record_no_column" class="record_no_column">2014 7728 P</td>
+<td headers="title_column" class="title_column">MCCLEARY &amp; ANOR -V- AIB PLC &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=7728&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">HAMILTON, BRENDAN</td>
+<td headers="record_no_column" class="record_no_column">2014 7728 P</td>
+<td headers="title_column" class="title_column">MCCLEARY &amp; ANOR -V- AIB PLC &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=7728&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">HAMILTON T/A THE FIRSTWOOD PARTNERSHIP, STEPHEN</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">HAMILTON T/A THE FIRSTWOOD PARTNERSHIP, STEPHEN</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">HART, CLARE</td>
+<td headers="record_no_column" class="record_no_column">2016 2468 P</td>
+<td headers="title_column" class="title_column">HART -V- BON SECOURS HEALTH SYSTEM LIMITED</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2468&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">HART, CLARE</td>
+<td headers="record_no_column" class="record_no_column">2016 2468 P</td>
+<td headers="title_column" class="title_column">HART -V- BON SECOURS HEALTH SYSTEM LIMITED</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2468&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">HEALY, GREG</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">HEENEY, JOHN</td>
+<td headers="record_no_column" class="record_no_column">2011 10735 P</td>
+<td headers="title_column" class="title_column">HEENEY -V- DEPUY INTERNATIONAL LTD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2011&amp;recordNo=10735&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">HODNETT, OONAGH</td>
+<td headers="record_no_column" class="record_no_column">2012 3527 P</td>
+<td headers="title_column" class="title_column">HODNETT -V- SHINAGH ESTATES FARM SERVICES LIMITED &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=3527&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">HOULIHAN, JIMMY</td>
+<td headers="record_no_column" class="record_no_column">2016 1832 P</td>
+<td headers="title_column" class="title_column">HOULIHAN &amp; ANOR -V- HSE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1832&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">HOULIHAN, MARY</td>
+<td headers="record_no_column" class="record_no_column">2016 1832 P</td>
+<td headers="title_column" class="title_column">HOULIHAN &amp; ANOR -V- HSE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1832&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">HUGHES, NEIL</td>
+<td headers="record_no_column" class="record_no_column">2014 5559 P</td>
+<td headers="title_column" class="title_column">HUGHES &amp; ORS -V- COLLINS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=5559&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ILAND, HEATHER</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KAVANAGH, TOM</td>
+<td headers="record_no_column" class="record_no_column">2017 4898 P</td>
+<td headers="title_column" class="title_column">KAVANAGH -V- MORRIN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=4898&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KEANE, ANDREW</td>
+<td headers="record_no_column" class="record_no_column">2013 13634 P</td>
+<td headers="title_column" class="title_column">KEANE &amp; ANOR -V- ESB NETWORKS LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=13634&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KEANE, ROSEMARY</td>
+<td headers="record_no_column" class="record_no_column">2013 13634 P</td>
+<td headers="title_column" class="title_column">KEANE &amp; ANOR -V- ESB NETWORKS LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=13634&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KELLY, BRENDAN</td>
+<td headers="record_no_column" class="record_no_column">2016 11115 P</td>
+<td headers="title_column" class="title_column">KELLY -V- TANAGER DESIGNATED ACTIVITY COMPANY &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=11115&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KELLY, EADAOIN</td>
+<td headers="record_no_column" class="record_no_column">2014 1379 P</td>
+<td headers="title_column" class="title_column">KELLY -V- N.K RACING LIMITED T/A CONNOLLY RACING</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=1379&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KELLY, KEVIN</td>
+<td headers="record_no_column" class="record_no_column">2015 3588 P</td>
+<td headers="title_column" class="title_column">KELLY -V- PLUNKETT &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=3588&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KELLY, LIAM</td>
+<td headers="record_no_column" class="record_no_column">2016 6956 P</td>
+<td headers="title_column" class="title_column">KELLY &amp; ANOR -V- INDEPENTDANT NEWS AND MEDIAL PLC &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=6956&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KELLY, MARK</td>
+<td headers="record_no_column" class="record_no_column">2014 9348 P</td>
+<td headers="title_column" class="title_column">KELLY -V- COMMISSIONER OF AN GARDA SIOCHANA &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9348&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KELLY, MARTINA</td>
+<td headers="record_no_column" class="record_no_column">2014 9347 P</td>
+<td headers="title_column" class="title_column">KELLY -V- COMMISSIONER OF AN GARDA SIOCHANA &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9347&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KELLY, STEPHEN</td>
+<td headers="record_no_column" class="record_no_column">2010 847 P</td>
+<td headers="title_column" class="title_column">KELLY -V- SUNDAY NEWSPAPERS LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=847&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KENNEDY, PASCHAL</td>
+<td headers="record_no_column" class="record_no_column">2017 6128 P</td>
+<td headers="title_column" class="title_column">KENNEDY -V- KENTZ MANAGEMENT LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6128&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KIDNEY T/A THE FIRSTWOOD PARTNERSHIP, ANTHONY</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KIDNEY T/A THE FIRSTWOOD PARTNERSHIP, ANTHONY</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KINSELLA, LEONARD</td>
+<td headers="record_no_column" class="record_no_column">2016 2979 P</td>
+<td headers="title_column" class="title_column">KINSELLA -V- COONEY P/A TALLANS SOLICITORS &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2979&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">KIRALY, PETR</td>
+<td headers="record_no_column" class="record_no_column">2015 8985 P</td>
+<td headers="title_column" class="title_column">KIRALY -V- GLENNON BROS TIMBER LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=8985&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">KOZLOWSKI, ANETA</td>
+<td headers="record_no_column" class="record_no_column">2014 8277 P</td>
+<td headers="title_column" class="title_column">KOZLOWSKI -V- DUNNES STORES</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=8277&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">LEANE [A MINOR], JACK</td>
+<td headers="record_no_column" class="record_no_column">2011 2196 P</td>
+<td headers="title_column" class="title_column">LEANE [A MINOR] -V- KERKHOFF &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2011&amp;recordNo=2196&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">LLOYDS PHARMACY IRELAND LTD</td>
+<td headers="record_no_column" class="record_no_column">2016 4446 P</td>
+<td headers="title_column" class="title_column">LLOYDS PHARMACY IRELAND LTD -V- MINISTER FOR HEALTH &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=4446&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">LONERGAN, ESTHER</td>
+<td headers="record_no_column" class="record_no_column">2014 8837 P</td>
+<td headers="title_column" class="title_column">LONERGAN -V- HSE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=8837&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MACGALHAES, JOSE ALFREDO QUINTANS</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MACGALHAES, JOSE ALFREDO QUINTANS</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MACHADO FERREIRA, MANUEL JOAQUIM ALVES</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MACHADO FERREIRA, MANUEL JOAQUIM ALVES</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MARQUES, SABASTIAO</td>
+<td headers="record_no_column" class="record_no_column">2014 7267 P</td>
+<td headers="title_column" class="title_column">MARQUES -V- DUNBIA [IRELAND]</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=7267&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MATOS, CARLOS ALBERTO OLIVERIA</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MATOS, CARLOS ALBERTO OLIVERIA</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MATOS, CARLOS MANUREL OLIVERIA</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MATOS, CARLOS MANUREL OLIVERIA</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MAXWELL, ROBERT</td>
+<td headers="record_no_column" class="record_no_column">2016 9296 P</td>
+<td headers="title_column" class="title_column">MAXWELL -V- KENNY T/A TK COURIER SERVICE &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=9296&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MC CARTHY, LORRAINE</td>
+<td headers="record_no_column" class="record_no_column">2014 4700 P</td>
+<td headers="title_column" class="title_column">MC CARTHY -V- DA COSTA OLIVEIRA &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=4700&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MC COOL CONTROLS AND ENGINEERING LIMITED</td>
+<td headers="record_no_column" class="record_no_column">2005 2747 P</td>
+<td headers="title_column" class="title_column">MC COOL CONTROLS AND ENGINEERING LIMITED -V- HONEYWELL CONTROLS SYSTEMS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2005&amp;recordNo=2747&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MC DONALD, DECLAN</td>
+<td headers="record_no_column" class="record_no_column">2016 1983 P</td>
+<td headers="title_column" class="title_column">MC DONALD -V- BALDWIN &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1983&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MC GINLEY, TERESA</td>
+<td headers="record_no_column" class="record_no_column">2012 3834 P</td>
+<td headers="title_column" class="title_column">MC GINLEY -V- MC CREESH</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=3834&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MC GUINNESS, JOE</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MC GUINNESS, MAY</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MC KELVEY, BARRY</td>
+<td headers="record_no_column" class="record_no_column">2017 5121 P</td>
+<td headers="title_column" class="title_column">MC KELVEY -V- IARNROD EIREANN IRISH RAIL</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=5121&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MC KELVEY, BARRY</td>
+<td headers="record_no_column" class="record_no_column">2017 5121 P</td>
+<td headers="title_column" class="title_column">MC KELVEY -V- IARNROD EIREANN IRISH RAIL</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=5121&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MCCARTHY, DENIS</td>
+<td headers="record_no_column" class="record_no_column">2017 6839 P</td>
+<td headers="title_column" class="title_column">BERRILL &amp; ANOR -V- KENMARE PROPERTY FINANCE DAC &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6839&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MCCLEARY, BRENDAN</td>
+<td headers="record_no_column" class="record_no_column">2014 7728 P</td>
+<td headers="title_column" class="title_column">MCCLEARY &amp; ANOR -V- AIB PLC &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=7728&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MCCLEARY, BRENDAN</td>
+<td headers="record_no_column" class="record_no_column">2014 7728 P</td>
+<td headers="title_column" class="title_column">MCCLEARY &amp; ANOR -V- AIB PLC &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=7728&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MCINERNEY, MARY</td>
+<td headers="record_no_column" class="record_no_column">2009 11362 P</td>
+<td headers="title_column" class="title_column">MCINERNEY -V- ALEXIS FITZGERALD LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2009&amp;recordNo=11362&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MEEHAN, BRENDA</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MEEHAN, JOE</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MICHERA, ALBERT</td>
+<td headers="record_no_column" class="record_no_column">2015 8595 P</td>
+<td headers="title_column" class="title_column">MICHERA -V- KOLEY LIMITED T/A SUPERMACS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=8595&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MISIUNAITE, LINA</td>
+<td headers="record_no_column" class="record_no_column">2016 7032 P</td>
+<td headers="title_column" class="title_column">MISIUNAITE -V- HSBC ALTERNATIVE INVESTMENTS LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7032&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MONTEIRO, ANTONIO GERMANO ALVES GUEDES</td>
+<td headers="record_no_column" class="record_no_column">2014 9212 P</td>
+<td headers="title_column" class="title_column">MONTEIRO &amp; ORS -V- ROSAS CONSTRUTORES S.A T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9212&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MONTEIRO, ANTONIO GERMANO ALVES GUEDES</td>
+<td headers="record_no_column" class="record_no_column">2014 9212 P</td>
+<td headers="title_column" class="title_column">MONTEIRO &amp; ORS -V- ROSAS CONSTRUTORES S.A T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9212&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MONTEIRO, ANTONIO GUEDES</td>
+<td headers="record_no_column" class="record_no_column">2014 9212 P</td>
+<td headers="title_column" class="title_column">MONTEIRO &amp; ORS -V- ROSAS CONSTRUTORES S.A T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9212&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MONTEIRO, ANTONIO GUEDES</td>
+<td headers="record_no_column" class="record_no_column">2014 9212 P</td>
+<td headers="title_column" class="title_column">MONTEIRO &amp; ORS -V- ROSAS CONSTRUTORES S.A T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9212&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MOORE, FRANCIS</td>
+<td headers="record_no_column" class="record_no_column">2014 5559 P</td>
+<td headers="title_column" class="title_column">HUGHES &amp; ORS -V- COLLINS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=5559&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MORAN [A MINOR], THOMAS DAVID</td>
+<td headers="record_no_column" class="record_no_column">2014 4492 P</td>
+<td headers="title_column" class="title_column">MORAN [A MINOR] -V- MC AULEY &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=4492&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MOREIRA, ARTUR JOAO ALONSO</td>
+<td headers="record_no_column" class="record_no_column">2014 9212 P</td>
+<td headers="title_column" class="title_column">MONTEIRO &amp; ORS -V- ROSAS CONSTRUTORES S.A T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9212&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MOREIRA, ARTUR JOAO ALONSO</td>
+<td headers="record_no_column" class="record_no_column">2014 9212 P</td>
+<td headers="title_column" class="title_column">MONTEIRO &amp; ORS -V- ROSAS CONSTRUTORES S.A T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=9212&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MULLINS, MARY</td>
+<td headers="record_no_column" class="record_no_column">2016 2170 P</td>
+<td headers="title_column" class="title_column">MULLINS -V- SHANNON KNIGHTS LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2170&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MURPHY, COLM</td>
+<td headers="record_no_column" class="record_no_column">2004 19212 P</td>
+<td headers="title_column" class="title_column">MURPHY -V- LAW SOCIETY OF IRELAND &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2004&amp;recordNo=19212&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MURPHY P/A CONNOLLY SELLORS GERAGHTY SOLRS, JOE</td>
+<td headers="record_no_column" class="record_no_column">2009 7569 P</td>
+<td headers="title_column" class="title_column">SHEEHY P/A CONNOLLY SELLORS GERAGHTY SOLRS &amp; ORS -V- CARROLL &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2009&amp;recordNo=7569&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP, DERMOT</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP, DERMOT</td>
+<td headers="record_no_column" class="record_no_column">2016 7746 P</td>
+<td headers="title_column" class="title_column">MURPHY T/A THE FIRSTWOOD PARTNERSHIP &amp; ORS -V- LAUNCESTON PROPERTY FINANCE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7746&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">NAGLE, ELIZABETH</td>
+<td headers="record_no_column" class="record_no_column">2016 10961 P</td>
+<td headers="title_column" class="title_column">NAGLE -V- HSE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=10961&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">NEWCOMBLE LIMITED</td>
+<td headers="record_no_column" class="record_no_column">2016 6000 P</td>
+<td headers="title_column" class="title_column">NEWCOMBLE LIMITED -V- TENNANT</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=6000&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">O BRIEN, DAVID</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">O BRIEN, JOHN</td>
+<td headers="record_no_column" class="record_no_column">2017 3872 P</td>
+<td headers="title_column" class="title_column">O BRIEN -V- ACC LOAN MANAGEMENT DAC &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=3872&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">O BRIEN, MARGARET</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">O CONNOR, PATRICK</td>
+<td headers="record_no_column" class="record_no_column">2011 4283 P</td>
+<td headers="title_column" class="title_column">O CONNOR -V- MURRAY &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2011&amp;recordNo=4283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">O DONNELL, SEAN</td>
+<td headers="record_no_column" class="record_no_column">2001 9787 P</td>
+<td headers="title_column" class="title_column">O DONNELL -V- COTTER &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2001&amp;recordNo=9787&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">O DONNELL, SEAN</td>
+<td headers="record_no_column" class="record_no_column">2001 9787 P</td>
+<td headers="title_column" class="title_column">O DONNELL -V- COTTER &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2001&amp;recordNo=9787&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">O FARRELL, ANN</td>
+<td headers="record_no_column" class="record_no_column">2013 12994 P</td>
+<td headers="title_column" class="title_column">O FARRELL -V- BANK OF SCOTLAND PLC</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12994&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">O GRADY, PATRICK</td>
+<td headers="record_no_column" class="record_no_column">2014 6688 P</td>
+<td headers="title_column" class="title_column">O GRADY -V- HSE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=6688&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">O NEILL, MARY</td>
+<td headers="record_no_column" class="record_no_column">2014 3394 P</td>
+<td headers="title_column" class="title_column">O NEILL -V- DEPUY INTERNATIONAL LIMITED</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=3394&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">O REILLY, JOSEPHINE</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">O REILLY, JOSEPHINE</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">OLIVEIRA GONCALVES, JOAO FILIPE</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">OLIVEIRA GONCALVES, JOAO FILIPE</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">PAYNE, JOHN</td>
+<td headers="record_no_column" class="record_no_column">2016 7580 P</td>
+<td headers="title_column" class="title_column">PAYNE -V- CASTLE PARK SCHOOL LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=7580&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">PHILPOTT [APUM], CIAN</td>
+<td headers="record_no_column" class="record_no_column">2017 6072 P</td>
+<td headers="title_column" class="title_column">PHILPOTT [APUM] -V- MINISTER FOR EDUCATION &amp; SCIENCE &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6072&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">PLATT, JASON</td>
+<td headers="record_no_column" class="record_no_column">2011 2047 P</td>
+<td headers="title_column" class="title_column">PLATT -V- OBH LUXURY ACCOMODATION LIMITED &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2011&amp;recordNo=2047&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">QUILTER, FRANK</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">QUILTER, FRANK</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">RAY, GEORGE</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">RAY, RITA</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">REDDIN, DEIRDRE</td>
+<td headers="record_no_column" class="record_no_column">2015 3094 P</td>
+<td headers="title_column" class="title_column">REDDIN -V- WALSH &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=3094&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">RENTOKIL INITIAL LTD</td>
+<td headers="record_no_column" class="record_no_column">2017 6772 P</td>
+<td headers="title_column" class="title_column">RENTOKIL INITIAL LTD -V- RATH &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6772&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">REYNOLDS [MINOR], PATRICK</td>
+<td headers="record_no_column" class="record_no_column">2016 1827 P</td>
+<td headers="title_column" class="title_column">REYNOLDS [MINOR] -V- KEANE</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1827&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">RIBEIRO DE ALMEIDA, JOSE MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">RIBEIRO DE ALMEIDA, JOSE MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">RODRIGUES LEMOS, JOAO PAULO</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">RODRIGUES LEMOS, JOAO PAULO</td>
+<td headers="record_no_column" class="record_no_column">2014 2244 P</td>
+<td headers="title_column" class="title_column">RIBEIRO DE ALMEIDA &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=2244&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">ROGERS, ISOBEL</td>
+<td headers="record_no_column" class="record_no_column">2013 11583 P</td>
+<td headers="title_column" class="title_column">ROGERS -V- SUNDAY NEWSPAPERS LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=11583&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ROGERS, JOHN</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">RUS, LITA</td>
+<td headers="record_no_column" class="record_no_column">2016 1062 P</td>
+<td headers="title_column" class="title_column">RUS -V- SRCL IRELAND LTD</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1062&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SACCO, DANIEL</td>
+<td headers="record_no_column" class="record_no_column">2014 10540 P</td>
+<td headers="title_column" class="title_column">SACCO -V- FENNELL &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=10540&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SACCO, DANIEL</td>
+<td headers="record_no_column" class="record_no_column">2014 10540 P</td>
+<td headers="title_column" class="title_column">SACCO -V- FENNELL &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=10540&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SANCHEZ, MURIEL</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SCANNELL, JANE</td>
+<td headers="record_no_column" class="record_no_column">2015 332 P</td>
+<td headers="title_column" class="title_column">SCANNELL -V- SOUTH INFIRMARY VICTORIA HOSPITAL LTD &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=332&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SCREAM LTD</td>
+<td headers="record_no_column" class="record_no_column">2013 11230 P</td>
+<td headers="title_column" class="title_column">SCREAM LTD -V- PEYTON &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=11230&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SEBASTIAO BRAS DE OLIVEIRA, MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2014 3319 P</td>
+<td headers="title_column" class="title_column">ABRANTES DO CARMO &amp; ORS -V- ROSAS CONSTRUCTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=3319&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SEBASTIAO BRAS DE OLIVEIRA, MANUEL</td>
+<td headers="record_no_column" class="record_no_column">2014 3319 P</td>
+<td headers="title_column" class="title_column">ABRANTES DO CARMO &amp; ORS -V- ROSAS CONSTRUCTORES SA T/A RAC CONTRACTORS AND</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=3319&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SHEEHY P/A CONNOLLY SELLORS GERAGHTY SOLRS, NIALL</td>
+<td headers="record_no_column" class="record_no_column">2009 7569 P</td>
+<td headers="title_column" class="title_column">SHEEHY P/A CONNOLLY SELLORS GERAGHTY SOLRS &amp; ORS -V- CARROLL &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2009&amp;recordNo=7569&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SHERLOCK, PATRICK</td>
+<td headers="record_no_column" class="record_no_column">2013 11803 P</td>
+<td headers="title_column" class="title_column">SHERLOCK -V- ENNIS TOWN COUNCIL</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=11803&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SHERWIN, ODRAN</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SHERWIN, ODRAN</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SIMPSON, GARY</td>
+<td headers="record_no_column" class="record_no_column">2014 6642 P</td>
+<td headers="title_column" class="title_column">SIMPSON -V- GOVERNOR OF MOUNTJOY PRISON &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=6642&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SIMPSON, GARY</td>
+<td headers="record_no_column" class="record_no_column">2014 6642 P</td>
+<td headers="title_column" class="title_column">SIMPSON -V- GOVERNOR OF MOUNTJOY PRISON &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=6642&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SIMPSON, GARY</td>
+<td headers="record_no_column" class="record_no_column">2014 6642 P</td>
+<td headers="title_column" class="title_column">SIMPSON -V- GOVERNOR OF MOUNTJOY PRISON &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2014&amp;recordNo=6642&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">STAKANSKAS, KAZYS</td>
+<td headers="record_no_column" class="record_no_column">2017 5726 P</td>
+<td headers="title_column" class="title_column">STAKANSKAS -V- PETROGAS GROUP LTD T/A APPLEGREEN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=5726&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">STAKANSKIENE, LINA</td>
+<td headers="record_no_column" class="record_no_column">2016 6218 P</td>
+<td headers="title_column" class="title_column">STAKANSKIENE -V- PETROGAS GROUP LIMITED T/A APPLEGREEN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=6218&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">STEPSTONE MORTGAGE FUNDING DAC</td>
+<td headers="record_no_column" class="record_no_column">2017 6452 P</td>
+<td headers="title_column" class="title_column">STEPSTONE MORTGAGE FUNDING DAC -V- RUANE &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6452&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">SWORDS, HENRY</td>
+<td headers="record_no_column" class="record_no_column">2016 1222 P</td>
+<td headers="title_column" class="title_column">SWORDS -V- AIB BANK PLC &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1222&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">SWORDS, HENRY</td>
+<td headers="record_no_column" class="record_no_column">2016 1222 P</td>
+<td headers="title_column" class="title_column">SWORDS -V- AIB BANK PLC &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=1222&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">THORNTON, JOHN PAUL</td>
+<td headers="record_no_column" class="record_no_column">2013 933 P</td>
+<td headers="title_column" class="title_column">THORNTON -V- CAROLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=933&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">TUCKER, CHRISTINE</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">TUCKER, CHRISTINE</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">ULOGWARA, OBINNA</td>
+<td headers="record_no_column" class="record_no_column">2017 3547 P</td>
+<td headers="title_column" class="title_column">ULOGWARA -V- JACKSON</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=3547&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">UMBELINO, JORGE ALEXANDRE</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">UMBELINO, JORGE ALEXANDRE</td>
+<td headers="record_no_column" class="record_no_column">2013 12219 P</td>
+<td headers="title_column" class="title_column">MATOS &amp; ORS -V- ROSAS CONSTRUTORES SA T/A RAC CONTRACTORS AND/OR &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=12219&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">VIBIEN, CIARA</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">VIBIEN, PASCAL</td>
+<td headers="record_no_column" class="record_no_column">2017 6283 P</td>
+<td headers="title_column" class="title_column">O BRIEN &amp; ORS -V- NATIONAL PAEDIATRIC HOSPITAL DEVELOPMENT BOARD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=6283&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">WALSH, GERALDINE</td>
+<td headers="record_no_column" class="record_no_column">2010 2472 P</td>
+<td headers="title_column" class="title_column">WALSH -V- THE ADELAIDE AND MEATH HOSPITAL</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2010&amp;recordNo=2472&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">WALSH, JENNIFER</td>
+<td headers="record_no_column" class="record_no_column">2012 5061 P</td>
+<td headers="title_column" class="title_column">WALSH -V- HSE &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2012&amp;recordNo=5061&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">WARD, ALAN</td>
+<td headers="record_no_column" class="record_no_column">2015 7572 P</td>
+<td headers="title_column" class="title_column">WARD -V- THOMASSEN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=7572&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">WARD, BERNADETTE</td>
+<td headers="record_no_column" class="record_no_column">2015 8109 P</td>
+<td headers="title_column" class="title_column">WARD -V- KRENN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=8109&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">WEBSTER, VINCENT</td>
+<td headers="record_no_column" class="record_no_column">2015 1176 P</td>
+<td headers="title_column" class="title_column">WEBSTER -V- HSE &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=1176&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">WHELAN, GARETH</td>
+<td headers="record_no_column" class="record_no_column">2016 8768 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN P/A THE SCOTT PARTNERSHIP &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8768&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">WHELAN, GARRET</td>
+<td headers="record_no_column" class="record_no_column">2016 8769 P</td>
+<td headers="title_column" class="title_column">O REILLY &amp; ORS -V- QUINLAN</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=8769&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">WHELAN, MICHAEL</td>
+<td headers="record_no_column" class="record_no_column">2016 2773 P</td>
+<td headers="title_column" class="title_column">WHELAN -V- JOHNSON</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=2773&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">WHELAN, MICHAEL</td>
+<td headers="record_no_column" class="record_no_column">2013 7696 P</td>
+<td headers="title_column" class="title_column">WHELAN -V- RYAN &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=7696&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">WYNNE, SIMON</td>
+<td headers="record_no_column" class="record_no_column">2013 8945 P</td>
+<td headers="title_column" class="title_column">WYNNE -V- CRYSTAL AIR LTD &amp; ANOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2013&amp;recordNo=8945&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">YEATES, SARAH JANE</td>
+<td headers="record_no_column" class="record_no_column">2015 7069 P</td>
+<td headers="title_column" class="title_column">YEATES -V- MC MANUS &amp; ORS</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=7069&amp;processType=P" title="Click on this link to view court case">View</a></td>
+</tr>
+</table>
+</div>
+<div id="terms_conditions_note">Use of this site is subject to acceptance of our <a href="terms_conditions.show">terms and conditions</a>.
+             </div>
+        </div>  <!-- content_section -->
+      </div>  <!-- main_section -->
+    </div>  <!-- site_section -->
+  </body>
+</html>
+

@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-ie">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="/www/hcslive/css/courts.css" />
+    <title>Search Results</title>
+
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36325825-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="site_section">
+      <div id="header_section">
+        <div id="logo_section">
+          <div id="logo">
+            <a href="http://www.courts.ie" title="Courts Service logo"><img alt="Courts Service logo" src="/www/hcslive/images/logo.gif" /></a>
+          </div>
+        </div>  <!-- logo-section -->
+        <div id="title_section">
+          <div id="site_title">
+            <img alt="Central Office Online Search" src="/www/hcslive/images/onlinetitle.gif" />
+          </div>
+          <div id="site_links">
+            <ul>
+              <li id="help"><a href="/www/hcslive/html/Help.html" target="_new">Help</a></li>
+              <li id="common_questions"><a href="/www/hcslive/html/CommonQuestions.html" target="_new">Common Questions</a></li>
+              <li id="privacy_security"><a href="/www/hcslive/html/PrivacyStatement.html" target="_new">Privacy and Security Statement</a></li>
+            </ul>
+          </div>  <!-- site-links -->
+          <div id="site_note">
+            Note: Details last updated at close of business on 08/08/2017
+          </div>
+        </div>  <!-- title_section -->
+      </div>  <!-- header_section -->
+      <div id="main_section">
+        <div id="menu_section">
+          <ul>
+            <li><a href="case_search.show?sessionID=1693490764">Search</a></li>
+            <li class="selected">Case Details</li>
+            <li class="selected">Filings</li>
+            <li class="selected">Order</li>
+            <li class="selected">Listing</li>
+            <li class="selected">Plaintiff Details</li>
+            <li class="selected">Defendant Details</li>
+            <li class="selected">Judgment</li>
+          </ul>
+        </div>  <!-- menu-section -->
+        <div id="content_section">
+<div id="table_section">
+<div id="title_text">
+<h1>Search Results</h1>
+</div>
+<div class="search_help_info">Click on the "view" link to the right of the case you would like to view</div>
+  <div class="case_summary">Cases By Plaintiff</div>
+<table class="list_table" summary="List of case details that match the search criteria">
+<tr>
+<th id="name_column" class="name_column"><a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=1&amp;sortDirection=D" title="Click to sort list by plaintiff descending">Plaintiff</a>
+<img alt="Arrow pointing upwards" src="/www/hcslive/images/sortarrowasc.gif" />
+</th>
+<th id="record_no_column" class="record_no_column">
+<a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=2&amp;sortDirection=A" title="Click to sort list by record number ascending">Record Number</a>
+</th>
+<th id="title_column" class="title_column">
+<a href="case_search.show_results?sessionID=1693490764&amp;sortColumnNo=3&amp;sortDirection=A" title="Click to sort list by title ascending">Title</a>
+</th>
+<th id="view_column" class="view_column">View Details</th>
+        </tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">DPP</td>
+<td headers="record_no_column" class="record_no_column">2017 163 EXT</td>
+<td headers="title_column" class="title_column">DPP -V- Z</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=163&amp;processType=EXT" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">DPP</td>
+<td headers="record_no_column" class="record_no_column">2017 200 EXT</td>
+<td headers="title_column" class="title_column">DPP -V- B</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2017&amp;recordNo=200&amp;processType=EXT" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MJ&E</td>
+<td headers="record_no_column" class="record_no_column">2016 183 EXT</td>
+<td headers="title_column" class="title_column">MJ&amp;E -V- KINSELLA</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2016&amp;recordNo=183&amp;processType=EXT" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MJE</td>
+<td headers="record_no_column" class="record_no_column">2015 213 EXT</td>
+<td headers="title_column" class="title_column">MJE -V- MYERSCOUGH</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2015&amp;recordNo=213&amp;processType=EXT" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="odd">
+<td headers="name_column" class="name_column">MJE</td>
+<td headers="record_no_column" class="record_no_column">2011 297 EXT</td>
+<td headers="title_column" class="title_column">MJE -V- O CONNOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2011&amp;recordNo=297&amp;processType=EXT" title="Click on this link to view court case">View</a></td>
+</tr>
+<tr class="even">
+<td headers="name_column" class="name_column">MJE</td>
+<td headers="record_no_column" class="record_no_column">2011 297 EXT</td>
+<td headers="title_column" class="title_column">MJE -V- O CONNOR</td>
+<td headers="view_column" class="view_column"><a href="case_detail.show?sessionID=1693490764&amp;yearNo=2011&amp;recordNo=297&amp;processType=EXT" title="Click on this link to view court case">View</a></td>
+</tr>
+</table>
+</div>
+<div id="terms_conditions_note">Use of this site is subject to acceptance of our <a href="terms_conditions.show">terms and conditions</a>.
+             </div>
+        </div>  <!-- content_section -->
+      </div>  <!-- main_section -->
+    </div>  <!-- site_section -->
+  </body>
+</html>
+
